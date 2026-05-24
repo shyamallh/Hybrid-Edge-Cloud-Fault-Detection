@@ -1,5 +1,13 @@
 # Hybrid-Edge-Cloud-Fault-Detection
 AI-based Industrial Fault Detection System using Raspberry Pi, MQTT, LSTM and Grafana for real-time monitoring and predictive maintenance.
+
+Developed as part of a team-based final year engineering project.
+## My Contribution
+- Raspberry Pi integration
+- Sensor data collection
+- MQTT communication
+- Grafana dashboard setup
+- AI model integration
 ## Technologies Used
 - Raspberry Pi
 - Python
